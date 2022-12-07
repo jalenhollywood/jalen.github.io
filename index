@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jalen Hollywood</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    
+</head>
+<body>
+
+    <div class="top-container">
+        <img class="youtube" src="images/youtube.svg" alt="youtube">
+        <h1>My name is Jalen Hollywood</h1>
+        <p class="sub">a Youtuber</p>
+        <img class="instagram" src="images/instagram.svg" alt="youtube">
+    </div>
+
+    <div class="middle-container">
+        <div class="profile">
+          <img class="profilephoto" src="images/youtube.png" alt="profile">
+          <h2>Hi</h2>
+          <p class="firstp">I would love to share with you guys that I am a upcoming youtuber, and would love for yalls support.</p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h2>Whats my focus.</h2>
+          <div class="skill-row">
+            <img class="camera" src="images/youtube.png" alt="skills">
+            <h3 class="I">I take parts of editing and videographing.</h3>
+            <p class="firstp">I spend most of my time on editing videos and shooting videos to put out for the public. I have a plan to blow up bigger than I am.</p>
+          </div>
+          <div class="skill-row">
+            <img class="camera" src="images/camera.png" alt="">
+            <h3 class="do">Do what you want.</h3>
+            <p class="firstp">I am a upcoming influencer and here to tell you guys to do what yall want, just piut your mind into it.</p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>I would love your support</h2>
+          <h3>I am here to put my videos out to touch the world.</h3>
+          <p class="firstp">My videos will be global and you all see it.</p>
+          <a class="btn" href="mailto:jalenhollywood04@gmail.com">CONTACT ME</a>
+        </div>
+      </div>
+      
+      
+      <div class="bottom-container">
+        <a class="footer-link" href="https://www.youtube.com/@TheHollywoodBoyz</a>
+        <a class="footer-link" href="https://www.youtube.com/@TheHollywoodBoyz</a>
+        <p>© 2022 Jalen Hollywood</p>
+      </div>
+      
+    
+</body>
+</html>
