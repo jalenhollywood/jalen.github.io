@@ -16,6 +16,8 @@ h1 {
 </head>
 <body>
 
+<div class="top-container">
+
 <h1>
 About Jalen Hollywood
 <div id="introduction">
