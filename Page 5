@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My career</title>
+<style>
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: black;
+  margin-left: 40px;
+}
+</style>
+</head>
+<body>
