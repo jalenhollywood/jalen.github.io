@@ -16,8 +16,18 @@ h1 {
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>
+About Jalen Hollywood
+<div id="introduction">
+</h1>
+
+<h2>
+Where Im from?
+</h2>
+<p>
+My name Jalen Hollywood, the age of 19 of <i>Caruthersville</i>, <i>Missouri</i> It is located at the bottom of the state of Missouri , which many call it the bootheel. Caruthersville lies in Missouri's Bootheel on the Mississippi River. The word <strong>"Pemiscot"</strong> comes from the word pemiskaw, meaning "liquid mud" in the Fox language. It lies border line from Arkansas and Tennessee. It could be 15 to 30 minutes away! Growing Up here, I can say that we are very country but the best of small town living around. I don't think it's any town as popular and historical as ours around the pemiscot county.
+</p>
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pemiscot_County_Missouri_Incorporated_and_Unincorporated_areas_Caruthersville_Highlighted.svg/250px-Pemiscot_County_Missouri_Incorporated_and_Unincorporated_areas_Caruthersville_Highlighted.svg.png"
 
 </body>
 </html>
